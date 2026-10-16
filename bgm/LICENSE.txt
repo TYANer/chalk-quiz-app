@@ -1,0 +1,18 @@
+本目录曲目均为 Kevin MacLeod 作品，来源 https://incompetech.com ，授权 Creative Commons Attribution 4.0 International（CC BY 4.0），
+可商用、可再分发、可改编，条件是署名。下载日期 2026-09-15。
+
+作者要求的署名格式（三行）：
+
+"<曲名>" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+本项目在 B 站简介中使用一行式署名，由模板 bgm.credit 生成，例如：
+BGM：Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0
+
+文件对应关系：
+
+sneaky-snitch.mp3     "Sneaky Snitch"     https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3
+pixelland.mp3         "Pixelland"         https://incompetech.com/music/royalty-free/mp3-royaltyfree/Pixelland.mp3
+fluffing-a-duck.mp3   "Fluffing a Duck"   https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3
+investigations.mp3    "Investigations"    https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3

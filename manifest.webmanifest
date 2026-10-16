@@ -1,0 +1,14 @@
+{
+  "name": "chalk-quiz",
+  "short_name": "chalk-quiz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
