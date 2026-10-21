@@ -1,0 +1,2 @@
+import{i as e}from"./rolldown-runtime-Dd_uD5pT.js";import{n as t,t as n}from"./jsx-runtime-DKj5X9O4.js";var r=e(t(),1),i=n(),a=({text:e})=>(0,i.jsx)(i.Fragment,{children:e.split(`
+`).map((e,t)=>(0,i.jsxs)(r.Fragment,{children:[t>0&&(0,i.jsx)(`br`,{}),e]},t))});export{a as t};

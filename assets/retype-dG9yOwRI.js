@@ -1,0 +1,1 @@
+var e=[`fill`,`choice`,`judge`];function t(e,t){if(e.type===t)return e;let{type:n,answer:r,...i}=e,{options:a,...o}=i,s=e.type===`choice`?e.options[e.answer]:e.type===`judge`?``:e.answer;return t===`choice`?{...o,type:t,options:[s,``,``,``],answer:0}:t===`fill`?{...o,type:t,answer:s}:{...o,type:t,answer:!0}}export{t as n,e as t};

@@ -1,0 +1,1 @@
+function e(e,t){let n=Array.from(e.replace(/\s+/g,` `));return n.length>t?`${n.slice(0,t).join(``)}…`:n.join(``)}export{e as t};
