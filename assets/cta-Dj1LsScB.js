@@ -1,0 +1,1 @@
+var e={fill:`填空题`,choice:`选择题`,judge:`判断题`};function t(t){return t.typeHints??e}function n(e,n){return t(e)[n]}function r(e,t){let n={thinkLine:e.thinkLine,hintLine:e.hintLine,outroCall:e.outroCall,shareLine:e.shareLine};return t===`portrait`?n:{...n,...e.landscape}}export{t as i,r as n,n as r,e as t};
